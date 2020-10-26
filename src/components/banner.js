@@ -19,7 +19,7 @@ const Banner = ()=>{
                                     Throughout the world various cultures hold to the belief that twins are special. Indeed in myths and legends twins are said to be symbols of change or are destined for greatness.
                                 </p>
                                 <button>
-                                    <Link to="/about-the-author">
+                                    <Link to="/about-the-book">
                                         Read More
                                     </Link>
                                 </button>
